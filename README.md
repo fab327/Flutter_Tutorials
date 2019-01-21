@@ -1,2 +1,2 @@
 # Flutter_Tutorials
-Tutorial on flutter
+Tutorials on flutter
