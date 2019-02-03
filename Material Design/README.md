@@ -2,4 +2,4 @@
 
 App to learn how to leverage material design with Flutter
 
-[Main logic](Material Design/lib)
+[Main logic](Material%20Design/lib)
